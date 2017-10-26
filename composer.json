@@ -17,5 +17,5 @@
             "jDate\\Jalali": "src/"
         }
     },
-    "minimum-stability": "dev"
+    "minimum-stability": "stable"
 }
