@@ -18,7 +18,7 @@ Run the Composer update comand
 
 Or just run command
 
-    $ composer require kakajan/LaraelJalali
+    $ composer require kakajan/LaravelJalali
 
 
 In your `config/app.php` add `'jDate\Jalali\JalaliServiceProvider'` to the end of the `$providers` array
