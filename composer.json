@@ -1,5 +1,5 @@
 {
-    "name": "kakajan/LaravelJalali",
+    "name": "kakajan/laravel-jalali",
     "description": "This Package helps developers to easily work with Jalali (Shamsi or Iranian) dates in Laravel 5.5+ applications",
     "license": "MIT",
     "authors": [
