@@ -16,10 +16,7 @@ class JalaliServiceProvider extends ServiceProvider {
    *
    * @return void
    */
-  public function boot()
-  {
-    $this->package('kakajan/laravel-jalali');
-  }
+
  
   /**
    * Register the service provider.
