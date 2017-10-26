@@ -9,7 +9,7 @@ This Package helps developers to easily work with Jalali (Shamsi or Iranian) dat
 In the `require` key of `composer.json` file add the following
 
 ```yml
-    "kakajan/LaraelJalali": "dev-master"
+    "kakajan/laravel-jalali": "dev-master"
 ```
 
 Run the Composer update comand
@@ -18,7 +18,7 @@ Run the Composer update comand
 
 Or just run command
 
-    $ composer require kakajan/LaravelJalali
+    $ composer require kakajan/laravel-jalali
 
 
 In your `config/app.php` add `'jDate\Jalali\JalaliServiceProvider'` to the end of the `$providers` array
