@@ -9,7 +9,7 @@ This Package helps developers to easily work with Jalali (Shamsi or Iranian) dat
 In the `require` key of `composer.json` file add the following
 
 ```yml
-    "kakajan/laravel-jalali": "dev-master"
+    "kakajan/laravel-jalali": "1.0"
 ```
 
 Run the Composer update comand
