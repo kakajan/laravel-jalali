@@ -1,6 +1,8 @@
 kakajan/laravel-jalali
 ======
 
+[![npm](https://img.shields.io/npm/l/express.svg?style=flat-square)](https://github.com/kakajan/laravel-jalali/blob/master/README.md) [![Dockbit](https://img.shields.io/dockbit/DockbitStatus/health.svg?token=TvavttxFHJ4qhnKstDxrvBXM&style=flat-square)](https://github.com/kakajan/laravel-jalali) [![Chrome Web Store](https://img.shields.io/chrome-web-store/price/nimelepbpejjlbmoobocpfnjhihnpked.svg?style=flat-square)](https://github.com/kakajan/laravel-jalali) [![Jenkins tests](https://img.shields.io/jenkins/t/https/jenkins.qa.ubuntu.com/view/Precise/view/All%20Precise/job/precise-desktop-amd64_default.svg?style=flat-square)](https://github.com/kakajan/laravel-jalali/releases/tag/1.0) 
+
 This Package helps developers to easily work with Jalali (Shamsi or Iranian) dates in Laravel 5.5+ applications.
 
 <a name="installation"></a>
