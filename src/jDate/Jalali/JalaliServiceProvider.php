@@ -18,7 +18,7 @@ class JalaliServiceProvider extends ServiceProvider {
    */
   public function boot()
   {
-    $this->package('kakajan/LaravelJalali');
+    $this->package('kakajan/laravel-jalali');
   }
  
   /**
