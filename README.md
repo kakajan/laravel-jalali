@@ -25,9 +25,11 @@ In your `config/app.php` add `'jDate\Jalali\JalaliServiceProvider'` to the end o
 
 ```php
     'providers' => array(
-
-        ...
-        jDate\Jalali\JalaliServiceProvider::class,
+    
+    .
+    .
+    .
+    jDate\Jalali\JalaliServiceProvider::class,
 
     ),
 ```
@@ -63,7 +65,7 @@ $date = jDate::forge('last sunday')->format('time'); // 00:00:00
 $date = jDate::forge('2012-10-12')->reforge('+ 3 days')->format('date'); // 1391-07-24
 
 // get relative 'ago' format
-$date = jDate::forge('now - 10 minutes')->ago() // ۱۰ دقیقه پیش
+$date = jDate::forge('now - 10 minutes')->ago(); // ۱۰ دقیقه پیش
 ```
 
 
