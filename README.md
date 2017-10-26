@@ -1,4 +1,4 @@
-kakajan/LaravelJalali
+kakajan/laravel-jalali
 ======
 
 This Package helps developers to easily work with Jalali (Shamsi or Iranian) dates in Laravel 5.5+ applications.
