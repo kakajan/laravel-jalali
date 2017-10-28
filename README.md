@@ -23,7 +23,7 @@ Or just run command
     $ composer require kakajan/laravel-jalali
 
 
-In your `config/app.php` add `'jDate\Jalali\JalaliServiceProvider'` to the end of the `$providers` array
+In your `config/app.php` add `'jDate\Jalali\JalaliServiceProvider::class,'` to the end of the `$providers` array
 
 ```php
     'providers' => array(
